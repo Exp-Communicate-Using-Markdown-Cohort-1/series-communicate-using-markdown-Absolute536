@@ -17,3 +17,12 @@ Display the state of the working directory and the staging area
 $ git add [file_name]
 Stage a specified file for commit
 ```
+
+## A sample task list
+
+- [x] Complete Step 1
+- [x] Complete Step 2
+- [x] Complete Step 3
+- [ ] Complete Step 4
+- [ ] Complete Step 5
+- [ ] End
